@@ -1,0 +1,29 @@
+{
+  "restrict_all": false,
+  "allow_only_ids": [],
+  "blocked_ids": [],
+  "allowed_groups": [],
+  "groups_only": false,
+  "bypass_groups_only": [
+    8219459786,
+    8496419402,
+    -1002798580895,
+    7968271742,
+    8520453548,
+    6154422848,
+    8475574438,
+    7999078330
+  ],
+  "perms": {
+    "8219459786": [
+      "chk"
+    ],
+    "5733576801": [
+      "chk"
+    ]
+  },
+  "admin_ids": [],
+  "removed_admin_ids": [
+    5733576801
+  ]
+}
